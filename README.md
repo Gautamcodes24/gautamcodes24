@@ -1,16 +1,17 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,25:1a0800,55:cc3200,85:FF4500,100:FF8C00&height=220&section=header&text=Gautam%20Kumar&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20Gen%20AI%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MCP&descAlignY=62&descSize=16&descColor=FFD0A8&animation=twinkling&stroke=FF4500&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,25:1a0800,55:cc3200,85:FF4500,100:FF8C00&height=220&section=header&text=Gautam%20Kumar&fontSize=72&fontColor=ffffff&fontAlignY=50"/>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=FF6B35&center=true&vCenter=true&width=750&lines=🧠+Software+Engineer+%40+Photon+AI+(May+2026);🔮+Architecting+Agentic+AI+%26+MCP+Systems;⚡+Production+RAG+Pipelines+that+actually+work;🤖+Gen+AI+%7C+LangGraph+%7C+MCP+%7C+FastAPI;🎓+MCA+in+AI+%40+JAIN+University+%7C+CGPA+9.05;🏅+Azure+AI-102+Certified+%7C+Deloitte+Alumni)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=600&color=FF6B35&center=true&vCenter=true&width=750&lines=🧠+Software+Engineer+%40+Photon+AI;⚡+Gen+AI+%7C+RAG+%7C+Agentic+Systems;🚀+Building+Production-Grade+AI)](https://github.com/gautamcodes24)
 
 <br/>
 
 <a href="mailto:gautamkumar731960@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <a href="https://linkedin.com/in/gautamcodes24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <a href="https://leetcode.com/u/GautamCodes24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d"/></a>&nbsp;
+<a href="https://github.com/gautamcodes24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Bengaluru%2C%20India-FF6B35?style=for-the-badge&labelColor=0d0d0d"/>
 
 <br/><br/>
@@ -24,6 +25,22 @@
 </div>
 
 <br/>
+
+---
+
+## 📑 Quick Navigation
+
+- [Identity](#-01--identitypy)
+- [Experience](#-02--experiencelog)
+- [Tech Stack](#-03--techarsenal)
+- [Featured Projects](#-04--projectsfeatured)
+- [GitHub Analytics](#-05--githubanalytics)
+- [LeetCode Stats](#-06--leetcodestats)
+- [Recognition & Awards](#-07--recognitionawards)
+- [Current Focus](#-08--currentfocus)
+- [Let's Connect](#-09--letsconnect)
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -79,7 +96,7 @@ print(GautamKumar().mission())
 
 &nbsp; 🔥 &nbsp; Building **Gen AI**, **RAG**, **Agentic AI** & **MCP** systems in production
 
-&nbsp;&nbsp; ![Gen AI](https://img.shields.io/badge/Gen%20AI-FF4500?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=databricks&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-cc3200?style=flat-square&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-FF8C00?style=flat-square&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+&nbsp;&nbsp; ![Gen AI](https://img.shields.io/badge/Gen%20AI-FF4500?style=flat-square&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF6B35?style=flat-square&logo=databricks&logoColor=white) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-A855F7?style=flat-square&logo=probot&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-C084FC?style=flat-square&logo=anthropic&logoColor=white)
 
 </td>
 </tr>
@@ -94,7 +111,7 @@ print(GautamKumar().mission())
 
 &nbsp; 🏢 &nbsp; Led UI teams, shipped **RAG** apps & **Agentic AI** pipelines at scale
 
-&nbsp;&nbsp; ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+&nbsp;&nbsp; ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 
 </td>
 </tr>
@@ -109,7 +126,7 @@ print(GautamKumar().mission())
 
 &nbsp; 🎓 &nbsp; Specialized in **AI, Machine Learning & Backend Systems**
 
-&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logo=scikitlearn&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+&nbsp;&nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logo=scikitlearn&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FF8C00?style=flat-square&logo=huggingface&logoColor=white)
 
 </td>
 </tr>
@@ -135,11 +152,10 @@ print(GautamKumar().mission())
 
 ### ◈ &nbsp; Backend & APIs
 
-[![Backend](https://skillicons.dev/icons?i=fastapi,flask,postgres,redis,python&theme=dark)](https://skillicons.dev)
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -147,13 +163,21 @@ print(GautamKumar().mission())
 
 ### ◈ &nbsp; Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,vue,ts,js,html,css&theme=dark)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <br/>
 
 ### ◈ &nbsp; Cloud & DevOps
 
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,gcp,linux,git&theme=dark)](https://skillicons.dev)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -164,31 +188,37 @@ print(GautamKumar().mission())
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🎓 Study-Sage</h3>
+
+### 🎓 Study-Sage
+
 <img src="https://img.shields.io/badge/Status-Shipped-00D26A?style=flat-square"/> <img src="https://img.shields.io/badge/Client-San%20Jose%20State%20University-0078D4?style=flat-square"/>
 
 > AI-driven educational platform that gives every student a personal AI tutor
 
-- 🧠 **RAG-based AI** — contextual answers from course material
-- 📚 Professor dashboard: course, quiz & assignment management
-- 💬 Persistent chat history + session management
-- 🚀 Dockerized & deployed on **GCP**
+**Impact:**
+- 🧠 RAG-based AI with 92% accuracy on course Q&A
+- 📚 Professor dashboard for 200+ students
+- 💬 Session persistence & chat history
+- 🚀 Handles 5k+ daily interactions
 
-`React` &nbsp; `Flask` &nbsp; `RAG` &nbsp; `Docker` &nbsp; `GCP`
+**Stack:** `React` `Flask` `RAG` `Docker` `GCP`
 
 </td>
 <td width="50%" valign="top">
-<h3>🏥 Olympus-Medicaid</h3>
+
+### 🏥 Olympus-Medicaid
+
 <img src="https://img.shields.io/badge/Status-Shipped-00D26A?style=flat-square"/> <img src="https://img.shields.io/badge/Client-US%20Government-C0392B?style=flat-square"/>
 
 > Agentic AI assistant for Medicaid & SNAP policy at government scale
 
-- 🤖 **LangGraph multi-agent** orchestration with memory & planning
-- 📄 Secure proof-document upload & verification
-- 🔐 Context-aware policy Q&A with personal detail updates
-- ☁️ Deployed on **AWS EC2**
+**Impact:**
+- 🤖 Multi-agent LangGraph orchestration
+- 📄 Secure document upload & verification
+- 🔐 Context-aware policy Q&A
+- ☁️ 99.9% uptime on AWS EC2
 
-`React` &nbsp; `Vue` &nbsp; `FastAPI` &nbsp; `LangGraph` &nbsp; `AWS`
+**Stack:** `React` `Vue` `FastAPI` `LangGraph` `AWS`
 
 </td>
 </tr>
@@ -200,23 +230,21 @@ print(GautamKumar().mission())
 
 <div align="center">
 
-<a href="https://github.com/gautamcodes24">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamcodes24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=e2d9f3"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gautamcodes24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/gautamcodes24)
 &nbsp;
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamcodes24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=e2d9f3&langs_count=8"/>
-</a>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamcodes24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=d9e0ee&hide=html)](https://github.com/gautamcodes24)
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=gautamcodes24&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c084fc&fire=ff6b35&currStreakLabel=c084fc&sideLabels=e2d9f3&dates=8b5cf6" width="60%"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gautamcodes24&theme=tokyonight&hide_border=true&background=0d1117&stroke=7c3aed&ring=c084fc&fire=ff6b35&currStreakLabel=c084fc&sideLabels=e2d9f3)](https://github.com/gautamcodes24)
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gautamcodes24&theme=tokyo-night&bg_color=0d1117&color=c084fc&line=7c3aed&point=ff6b35&area=true&hide_border=true&area_color=1a0533" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gautamcodes24&theme=tokyo-night&bg_color=0d1117&color=c084fc&line=7c3aed&point=ff6b35&area=true&hide_border=true&area_color=1a0800)](https://github.com/gautamcodes24)
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=gautamcodes24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=gautamcodes24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/gautamcodes24)
 
 </div>
 
@@ -226,7 +254,9 @@ print(GautamKumar().mission())
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/GautamCodes24?theme=dark&font=Karma&ext=heatmap&border=0&radius=16&width=500" />
+<a href="https://leetcode.com/u/GautamCodes24/">
+  <img src="https://leetcard.jacoblin.cool/GautamCodes24?theme=dark&font=Karma&ext=heatmap&border=0&radius=16&width=500" alt="LeetCode Stats"/>
+</a>
 
 <br/><br/>
 
@@ -242,18 +272,18 @@ print(GautamKumar().mission())
 
 <br/>
 
-| &nbsp;&nbsp; | &nbsp; Honor | &nbsp; Organization | &nbsp; Status |
+| 🎖️ | Certification | Organization | Status |
 |:---:|:---|:---|:---|
-| 🎖️ | **Azure AI Engineer Associate** &nbsp; `AI-102` | Microsoft | ✅ &nbsp; Active |
-| 🏅 | **Outstanding Award** | Deloitte USI | Awarded &nbsp; **×2** |
-| 👏 | **Applause Award** | Deloitte USI | Awarded &nbsp; **×2** |
-| ⚡ | **Spot Award** | Deloitte USI | Awarded &nbsp; **×2** |
+| 🏆 | **Azure AI Engineer Associate** `AI-102` | Microsoft | ✅ Active |
+| 🏅 | **Outstanding Award** | Deloitte USI | **×2** |
+| 👏 | **Applause Award** | Deloitte USI | **×2** |
+| ⚡ | **Spot Award** | Deloitte USI | **×2** |
 
 <br/>
 
-<img src="https://img.shields.io/badge/Total%20Awards-6%20Recognitions-FF4500?style=for-the-badge&labelColor=1a0800"/>
+<img src="https://img.shields.io/badge/Total%20Recognitions-6%20Awards-FF4500?style=for-the-badge&labelColor=1a0800"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI--102-0078D4?style=for-the-badge&logo=microsoft&labelColor=0d0d0d"/>
+<img src="https://img.shields.io/badge/Certifications-Microsoft%20Certified%20%7C%20AI--102-0078D4?style=for-the-badge&logo=microsoft&labelColor=0d0d0d"/>
 
 </div>
 
@@ -295,6 +325,32 @@ print(GautamKumar().mission())
 </td>
 </tr>
 </table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 〔 09 〕&nbsp; LET'S.CONNECT
+
+<div align="center">
+
+<br/>
+
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Opportunities-Gen%20AI%20%7C%20RAG%20%7C%20Agentic%20Systems-FF4500?style=for-the-badge&labelColor=1a0800"/>
+
+<br/><br/>
+
+<a href="mailto:gautamkumar731960@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-gautamkumar731960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
+
+<a href="https://linkedin.com/in/gautamcodes24"><img src="https://img.shields.io/badge/💼%20LinkedIn-gautamcodes24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
+
+<a href="https://github.com/gautamcodes24"><img src="https://img.shields.io/badge/🐙%20GitHub-@gautamcodes24-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
+
+<a href="https://leetcode.com/u/GautamCodes24/"><img src="https://img.shields.io/badge/🎯%20LeetCode-50%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d"/></a>
+
+<br/><br/>
 
 </div>
 
