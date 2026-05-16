@@ -126,16 +126,32 @@ print(me)
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gautamcodes24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautamcodes24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<a href="https://github.com/gautamcodes24">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gautamcodes24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gautamcodes24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&langs_count=8"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautamcodes24&theme=tokyonight&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com/?user=gautamcodes24&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B35&currStreakLabel=A78BFA" />
 
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=gautamcodes24&theme=tokyonight&no-frame=true&no-bg=true&column=7"/>
+
+</div>
+
+---
+
+## 🟨 LeetCode Progress
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/GautamCodes24?theme=dark&font=Karma&ext=heatmap&border=0&radius=20&width=500" />
+
+<br/>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-GautamCodes24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/GautamCodes24/)
 
 </div>
 
