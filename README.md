@@ -11,7 +11,6 @@
 <a href="mailto:gautamkumar731960@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <a href="https://linkedin.com/in/gautamcodes24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <a href="https://leetcode.com/u/GautamCodes24/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d"/></a>&nbsp;
-<a href="https://github.com/gautamcodes24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Bengaluru%2C%20India-FF6B35?style=for-the-badge&labelColor=0d0d0d"/>
 
 <br/><br/>
@@ -25,22 +24,6 @@
 </div>
 
 <br/>
-
----
-
-## 📑 Quick Navigation
-
-- [Identity](#-01--identitypy)
-- [Experience](#-02--experiencelog)
-- [Tech Stack](#-03--techarsenal)
-- [Featured Projects](#-04--projectsfeatured)
-- [GitHub Analytics](#-05--githubanalytics)
-- [LeetCode Stats](#-06--leetcodestats)
-- [Recognition & Awards](#-07--recognitionawards)
-- [Current Focus](#-08--currentfocus)
-- [Let's Connect](#-09--letsconnect)
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -325,32 +308,6 @@ print(GautamKumar().mission())
 </td>
 </tr>
 </table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 〔 09 〕&nbsp; LET'S.CONNECT
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/💼%20Open%20to%20Opportunities-Gen%20AI%20%7C%20RAG%20%7C%20Agentic%20Systems-FF4500?style=for-the-badge&labelColor=1a0800"/>
-
-<br/><br/>
-
-<a href="mailto:gautamkumar731960@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-gautamkumar731960%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
-
-<a href="https://linkedin.com/in/gautamcodes24"><img src="https://img.shields.io/badge/💼%20LinkedIn-gautamcodes24-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
-
-<a href="https://github.com/gautamcodes24"><img src="https://img.shields.io/badge/🐙%20GitHub-@gautamcodes24-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d"/></a>&nbsp;
-
-<a href="https://leetcode.com/u/GautamCodes24/"><img src="https://img.shields.io/badge/🎯%20LeetCode-50%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0d0d0d"/></a>
-
-<br/><br/>
 
 </div>
 
